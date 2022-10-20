@@ -8,23 +8,10 @@
 
 #### Requirements
 + Tkinter
-+ Textblob
 + Spacy
-+ Polyglot (Alternative)
-
++ NLTK
++deep_translater
++codecs
 ###### Why NLPiffy-GUI
 + To simplify repetitive task
 
-###### Screenshot
-![nlpiffy_gui](https://github.com/Jcharis/NLPiffy/blob/master/NLPiffy_GUI/NLPiffy_GUi-1.png)
-
-###### File Processer
-![nlpiffy_gui2](https://github.com/Jcharis/NLPiffy/blob/master/NLPiffy_GUI/NLPiffy_GUI-2.png)
-
-##### More To Add
-
-
-##### About
-+ NLPiffy-GUI v.0.0.1
-+ By Jesse JCharis Agbe
-+ Jesus Saves@JCharisTech
